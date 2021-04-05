@@ -13,22 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Business Jekyll Theme
+title: VMC KAOS™ ~JOGJA~081227277298~
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Yet another Jekyll theme. It is designed for business purpose and ported by 
   Melvin Ch'ng.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://vmckaos.github.io/jasakonveksi/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Johns, Smith & Associates
+company_name: VMC KAOS™ ~JOGJA
 address_line: Via Ludovisi 39-45, Rome, 54267, Italy
-telephone_number: 1.800.245.356
-fax_number: 1.800.245.357
-company_email: hello@LawOffice.org
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
-
+telephone_number: 081227277298
+fax_number: 
+company_email:
+google_map:https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1976.5064258484692!2d110.4095559!3d-7.788461377623258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59e3f5c96e8d%3A0x6f0d1bd72ced21e0!2sVMC%20KAOS%E2%84%A2%20~%200812%202727%207298%20~Konveksi%20Jogja%20yang%20memproduksi%20Kaos%2C%20jaket%20dan%20lainnya.%20Kami%20adalah%20vendor%20kaos%20jogja%20yang%20sudah%20berpengalaman%20memenuhi%20kebutuhan%20banyak%20konsumen.%20Dengan%20kualitas%20premium%20kami%20bisa%20menawarkan%20kaos%20dengan%20harga%20pabrik!5e0!3m2!1sid!2sid!4v1613888913301!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
 # Social Link
 facebook_link: http://www.facebook.com
 twitter_link: http://www.twitter.com
