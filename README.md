@@ -1,35 +1,5 @@
-# Business Jekyll Theme
+# VMC KAOS™ ~ 0812 2727 7298 ~ JOGJA ISTIMEWA,Konveksi Jogja yang memproduksi Kaos, jaket, kemeja, masker dan lainnya. 
+Kami adalah vendor kaos jogja yang sudah berpengalaman memenuhi kebutuhan banyak konsumen. 
+Dengan kualitas premium kami bisa menawarkan kaos dengan harga pabrik
 
-Business Jekyll Theme is a theme that is designed to be used for small and medium business. It is designed by a team from [Technext](https://github.com/technext/). The theme is then ported over by [Melvin Ch'ng](http://melvinchng.github.io) for Jekyll support. The original source code can be obainted from Technext's [repository](https://github.com/technext/office)
-
-Unlike most Jekyll Themes, Business Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your business website or promote certain project. I reorganized all the files and make it Jekyll friendly.
-
-Big thanks to the creator of Office as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
-
-**Example Site**
-- [Business Jekyll Theme](https://business-jekyll-theme.github.io)
-
-**Example Site From The Original Creator**
-- [Office Template](http://demo.themewagon.com/preview/office-responsive-multipage-bootstrap-template)
-
-## Feature
-- Responsive layout
-- CSS Framework - Bootstrap 3
-- Beautiful icons by Fontawesome
-- Clean, simple and elegant
-- Multi page Template
-- Well commented and structured coding
-- Easy to use
-- It's Free!
-
-## Note
-I removed certain features from the original theme packages as we do not really need it. I modified the original source code slightly to make it more mobile friendly and reusable. 
-
-## Installation
-1. For first time user, you have to install Ruby and Rails. If you do not have Ruby on Rails installed, you may follow [this tutorial](http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) that I wrote for Windows, Linux, and MacOS (installation videos are included).
-2. Install Jekyll by using the command `gem install jekyll`.
-3. Start your localhost server by using the command `jekyll serve`. Make sure that you are at the root directory of your folder before using this command.
-4. Your site should be accessible at `localhost:4000`.
-5. For additional information about Jekyll, refer to the [official website](http://jekyllrb.com/). 
-
-## Enjoy!
+Profil Konveksi Sablon Jogja | Bikin Kaos Jogja, Konveksi Murah Jogja, Tempat Pembuatan Kemeja, Kemeja Murah Jogja, Bikin Kemeja Jogja, Bikin Seragam Jogja, Tempat Pembuatan Kemeja, Kemeja Bordir Jogja, Pembuatan Kemeja Jogja, Tempat Produksi Kemeja Jogja, Konveksi Kemeja Jogja, Kemeja Jogja, Polo Shirt Jogja, Kaos Polo Jogja, Bikin Kaos Polo, Topi Satuan Jogja, Tempat Pembuatan Topi Murah, Totebag Murah Jogja, Totebag Jogja, Tempat Pembuatan Totebag Jogja, Totebag Murah, Tempat Pembuatan Jaket Jogja, Konveksi Jaket Jogja, Tempat Pembuatan, Kaos Komunitas, Kaos Komunitas, Kaos Komunitas Murah, Pembuatan Seragam Jogja, Tempat Pembuatan Slayer Jogja, Bikin Kemeja Jogja, Kaos Event, Tempat Pembuatan Kaos Event, Sablon Berkwalitas, Sablon Jogja, Konveksi Sleman, Konveksi Bantul, Konveksi Jakarta, Konveksi Bandung, Konveksi Surabaya, Tempat Pembuatan Kaos di Jogja, Sablon Kaos Murah Jogja Melayani Pembuatan Kaos di Jogja, Sablon Murah Jogja, Jasa Sablon Jogja, Kaos Sablon Jogja, Sablon Kaos di Jogja, Kaos Polos Jogja Murah, Jual Topi Snapback Jogja, Konveksi Jogja, Konveksi Jogja Murah, Konveksi Baju Murah, Gambar Totebag, konveksi kaos jogja, konveksi jogja, sablon kaos satuan jogja, daftar harga kaos jogja, konveksi baju wanita jogja, sablon kaos satuan jogja, konveksi jogja, harga sablon jogja, sablon dtg jogja, konveksi baju wanita jogja, daftar harga kaos jogja, sablon kaos bali, printingkaos, jasa konveksi jogja, konveksi baju wanita jogja, konveksi jaket jogja, konveksi jogjaku, garment jogja, sablon kaos satuan jogja, daftar harga kaos jogja, sablon kaos satuan jogja, konveksi jogja, harga sablon jogja, sablon dtg jogja, konveksi baju wanita jogja, daftar harga kaos jogja, sablon kaos bali, printingkaos, tempat pembuatan kaos di jogja, tempat produksi kaos di jogja, tempat pembuatan kaos jogja, jasa pembuatan kaos jogja, tempat pembuatan kaos bola jogja, tempat pembuatan kaos futsal jogja, sablon jogja, tempat pembuatan sablon jogja, sablon murah jogja, sablon bandung, sablon murah bandung, sablon jakarta, sablon bandung, sablon satuan, kaos satuan, konveksi sablon, konveksi kaos jakarta, vendor kaos jakarta, vendor baju jakartatempat sablon jakarta, tempat sablon kaos, konveksi jakarta, pusat konveksi jakarta, jasa bikin baju, konveksi jakarta selatan, jasa konveksi jakarta, jasa konveksi jakarta barat, megan konveksi jakarta, konveksi jakarta timur, jasa jahit jakarta, konveksi kaos jakarta, konveksi bandung, konveksi kaos bandung, konveksi jaket bandung, konveksi tas bandung, jasa konveksi bandung, konveksi kerudung bandung, konveksi jakarta, konveksi baju, konveksi adalah, konveksi bandung, konveksi kaos distro bandung, konveksi kaos jakarta, kaos satuan, sablon satuan jogja, sablon kaos jogja, print kaos jogja, sablon kaos satuan, sablon jogja, harga sablon jogja, cetak kaos satuan, sablon kaos satuan jakarta selatan, sablon kaos satuan jakarta pusat, sablon kaos satuan jakarta timur, vendor kaos jakarta, jahit kaos satuan jakarta, vendor kaos satuan, sablon kaos satuan terdekat, print kaos satuan, sablon kaos satuan terdekat, print kaos satuan, sablon polyflex, printing kaos bandung, print kaos bagus, sablon kaos satuan jakarta, kaos satuan jogja, sablon kaos satuan jogja, custom kaos satuan, cetak kaos satuan, cetak kaos satuan jakarta, sablon kaos satuan terdekat, sablon kaos jogja,alat sablon kaos jogja sablon kaos jogja bagus sablon kaos bijian jogja sablon kaos partai besar jogja sablon baju kaos jogja belajar sablon kaos jogja bisnis jasa sablon kaos jogja sablon kaos di jogja sablon kaos dtg jogja sablon kaos distro jogja sablon kaos di jogja satuan sablon kaos di yogyakarta tempat sablon kaos di jogja harga sablon kaos di jogja sablon kaos terbaik di jogja sablon kaos termurah di jogja sablon kaos murah di jogja sablon kaos eceran jogja sablon kaos full print jogja grosir kaos sablon jogja harga sablon kaos jogja harga jasa sablon kaos jogja daftar harga sablon kaos jogja harga sablon kaos satuan jogja sablon kaos 1 hari jadi jogja sablon jogja - konveksi kaos sablon kaos jogja kabupaten sleman daerah istimewa yogyakarta sablon kaos sehari jadi jogja sablon kaos langsung jadi jogja jasa sablon kaos jogja jasa sablon kaos jo
